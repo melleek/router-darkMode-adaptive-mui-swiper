@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.sec1 {
+  background-image: url("src/assets/img/image (35).png");
+}
+
+.sec2 {
+  background-image: url("src/assets/IMAGE (41).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
